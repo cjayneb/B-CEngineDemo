@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "lotfi",
+      "email": "lotfi@caca.ca",
+      "admin": true,
+      "id": 5
+    },
+    {
+      "username": "loik",
+      "email": "loik@tamereestgrande.com",
+      "admin": true,
+      "id": 6
+    }
+  ]
+}
